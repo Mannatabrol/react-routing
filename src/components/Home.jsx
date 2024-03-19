@@ -8,7 +8,7 @@ const Home = () => {
         flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
-        minHeight: 'calc(100vh - 100px)',
+        minHeight: 'calc(100vh - 80px)',
         backgroundColor: 'pink'
       }}
       className="home-container"
